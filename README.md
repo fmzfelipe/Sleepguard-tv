@@ -6,13 +6,16 @@
 
 ---
 
+
+https://github.com/user-attachments/assets/38a2d646-5e93-45b2-8bc0-56cb4ced21b1
+
+
 ## 💎 O Produto: Display Face ID
 O **Display Face ID** não é apenas um monitor; é o centro da sua estação de trabalho inteligente. Com sensores de profundidade e infravermelho integrados na borda superior, ele utiliza redes neurais profundas para reconhecer instantaneamente o usuário e, mais importante, o seu **nível de atenção**.
 O design foi pensado para ser minimalista e funcional, sem comprometer a potência visual.
 
 ![Display Face ID Design](Apple-Studio-Display-and-Studio-Display-XDR-260303_big.jpg.large.jpg)
 
-https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/raw/main/large_2x%20(1).mp4
 
 ### 🚀 Funcionalidades Inteligentes:
 * **Attention Detection:** O display detecta quando o usuário desvia o olhar ou dorme, iniciando modos de economia de energia gradativos em milissegundos.
@@ -20,7 +23,6 @@ https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/raw/main/large_2x%20(1).mp4
 * **Handoff Biométrico:** Login instantâneo em múltiplos serviços via Face ID ao se sentar à mesa.
 * Veja abaixo o detalhamento da engenharia e das camadas do sensor Face ID integrado:
 
-https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/raw/main/large_2x.mp4
 
 
 ## 📊 Coleta e Inteligência de Big Data
@@ -34,6 +36,10 @@ Como detentores da tecnologia, nossa vantagem competitiva reside na estruturaç�
 * **Infrastrutura de Ingestão:** Pipelines de alta velocidade para telemetria IoT.
 * **Data Lake & Processamento:** Apache Spark & Hadoop para análise de volumes massivos de logs de eventos de atenção.
 * **BI & Visualização:** Dashboards executivos customizados para monitoramento de KPIs de produto e eficiência.
+
+
+https://github.com/user-attachments/assets/f39fcaf1-8c99-4267-802c-c42fdd44ced9
+
 
 ---
 
